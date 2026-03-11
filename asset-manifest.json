@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jungmall/static/css/main.afb10fbd.css",
+    "main.js": "/jungmall/static/js/main.cb33f26e.js",
+    "static/js/453.1d4a1cc5.chunk.js": "/jungmall/static/js/453.1d4a1cc5.chunk.js",
+    "index.html": "/jungmall/index.html",
+    "main.afb10fbd.css.map": "/jungmall/static/css/main.afb10fbd.css.map",
+    "main.cb33f26e.js.map": "/jungmall/static/js/main.cb33f26e.js.map",
+    "453.1d4a1cc5.chunk.js.map": "/jungmall/static/js/453.1d4a1cc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb10fbd.css",
+    "static/js/main.cb33f26e.js"
+  ]
+}
